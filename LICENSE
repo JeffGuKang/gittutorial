@@ -1,0 +1,14 @@
+이것은 라이센스
+
+중간중간 git status 로 상황 파악
+
+1. 파일 2개 다 수정
+2. 하나만 Staging
+3. git commit -m '어쩌구'
+4. git status
+
+직전 commit 수정하기 (--amend)
+1. LICENSE 도 git add .를 통해 stage 영역에 넣음
+2. git commit --amend -m 'MESSAGE'
+  (직전 commit 재편집) README만 반영됐던 상황, 커밋 메세지도 변경해주세요.
+3. 저장 후에 git log 찍어보기
