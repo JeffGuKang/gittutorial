@@ -1,6 +1,8 @@
 나는 멍멍이입니다. 
 
-종은 사모예드 입니다. 작고 귀여움 
+종은 사모예드 입니다. 작고 귀여움. 
+
+하루에 사료를 20kg 먹습니다. 
 
 git push -u origin dog
 git push --set-upstream origin dog
